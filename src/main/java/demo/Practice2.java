@@ -6,6 +6,8 @@ public class Practice2 {
 		System.out.println("changes in git");
 		System.out.println("In branch");
 		System.out.println("change master to ATE");
+		
+		
 	}
 
 }
